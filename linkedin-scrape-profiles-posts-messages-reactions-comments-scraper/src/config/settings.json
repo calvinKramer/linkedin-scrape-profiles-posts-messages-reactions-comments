@@ -1,0 +1,9 @@
+{
+  "linkedin": {
+    "cookies": {
+      "li_at": "your_cookie_value",
+      "JSESSIONID": "your_cookie_value"
+    },
+    "base_url": "https://www.linkedin.com"
+  }
+}
