@@ -1,0 +1,13 @@
+requests==2.25.1
+beautifulsoup4==4.9.3
+
+linkedin-scrape-profiles-posts-messages-reactions-comments-scraper/LICENSE
+textMIT License
+
+Copyright (c) 2025 Bitbash
+
+Permission is hereby granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+...
+
+linkedin-scrape-profiles-posts-messages-reactions-comments-scraper/.keep
+textPlaceholder for keeping folder structure integrity.
